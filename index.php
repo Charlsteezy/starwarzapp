@@ -40,7 +40,7 @@ if (isset($_REQUEST['logout'])) {
 
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
  
         <!-- font awesome from BootstrapCDN -->
         <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
